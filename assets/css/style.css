@@ -438,7 +438,6 @@ body{
     align-items: center;
     justify-content: end;
     gap: 20px;
-    display: inline-block;
 }
 .uygulama-icon a{
     padding: 10px;
@@ -450,8 +449,6 @@ body{
 }
 .uygulama-icon .icon .icon-img{
     width: 100%;
-    max-width: 35px;
-    height: auto;
     margin: 15px 0;
 }
 .uygulama-icon .icon .icon-img img{
