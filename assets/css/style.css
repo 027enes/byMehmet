@@ -254,10 +254,17 @@ body{
     width: 100%;
     object-fit: cover;
 }
+
 @media (min-width: 1650px) {
     .bymehmet-event-section .container {
         margin: 0 0 0 auto !important;
         max-width: 1650px !important;
+    }
+}
+@media (min-width: 1921px) {
+    .bymehmet-event-section .container {
+        margin: 0 0 0 auto !important;
+        max-width: 2250px !important;
     }
 }
 .bymehmet-event-section .swiper {
@@ -801,10 +808,17 @@ footer .social a i{
 footer .social a:hover i{
     color: #adadad;
 }
+
 @media (min-width: 1650px) {
     footer .container {
         margin: 0 0 0 auto !important;
         max-width: 1650px !important;
+    }
+}
+@media (min-width: 1921px) {
+    footer .container {
+        margin: 0 0 0 auto !important;
+        max-width: 2250px !important;
     }
 }
 .copy span{

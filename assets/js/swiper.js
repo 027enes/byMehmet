@@ -121,5 +121,9 @@ var eventSwiper = new Swiper(".eventSlider", {
             slidesPerView: 2.8,
             spaceBetween: 10,
         },
+        1922: {
+            slidesPerView: 4.8,
+            spaceBetween: 10,
+        },
     },
 });
