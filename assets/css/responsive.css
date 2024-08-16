@@ -1,0 +1,109 @@
+@media (max-width:990px){
+    .bymehmet-event-button{
+        top: 25%;
+    }
+    .bymehmet-event-section{
+        padding: 75px 0;
+    }
+    #uygulama .row .text h2{
+        font-size: 38px
+    }
+
+}
+@media (max-width:890px){
+    #uygulama .row .text h2{
+        font-size: 28px
+    }
+    #uygulama .row .text p{
+        font-size: 16px;
+    }
+}
+@media (max-width:720px){
+    #form form .txt-field input{
+        width: 100%;
+    }
+    #form form{
+        margin: 0 10px;
+    }
+    .bymehmet-slider .by-mehmet-slider-text .bymehmet-slider-subtitle{
+        font-size: 18px;
+    }
+    .bymehmet-slider .by-mehmet-slider-text .bymehmet-slider-title{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .mySwiper{
+        height: 70vh;
+    }
+    .indicator-container{
+        top: 80%;
+    }
+    .by-mehmet-left{
+        margin-bottom: 25px;
+    }
+    .bymehmet-event-button{
+        top: 30%;
+    }
+    .video-text a h2{
+        font-size: 30px;
+    }
+    #uygulama{
+        width: 100%;
+    }
+    #video{
+        height: 85vh;
+    }
+    #video .logo{
+        bottom: 100px;
+        right: 10px;
+    }
+    .video-text a{
+        margin-bottom:100px;
+    }
+    #uygulama{
+        border-radius: 0;
+    }
+    .uygulama-icon{
+        justify-content: center;
+    }
+    #video .logo img{
+        height: 135px;
+    }
+    #form{
+        margin: 100px 0 50px 0;
+    }
+    .footer-title{
+        font-size: 38px;
+    }
+    .footer-contact{
+        margin-top:10px;
+        margin-bottom: 50px;
+    }
+    footer .tel{
+        line-height: 20px;
+    }
+    .copy{
+        padding: 20px 0;
+    }
+    .header .btn{
+        font-size: 12px;
+        padding: 5px;
+    }
+    .indicator-container{
+        top: 96%;
+        right: 0;
+    }
+    .dot{
+        margin:0 6px;
+    }
+    .indicator{
+        font-size: 18px;
+    }
+    .indicator-set.active{
+        display: flex ;
+        flex-direction: row !important;
+    }
+    .indicator-line:before{
+        display: none;
+    }
+}
