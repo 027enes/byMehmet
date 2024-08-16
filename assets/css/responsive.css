@@ -33,7 +33,7 @@
         line-height: 40px;
     }
     .mySwiper{
-        height: 70vh;
+        height: 80vh !important;
     }
     .indicator-container{
         top: 80%;
